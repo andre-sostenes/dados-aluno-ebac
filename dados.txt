@@ -2,7 +2,7 @@ Dados do aluno
 
 -Primeiro Nome: André
 -Profissão: Gerente
--Cidade: Indaial/SCs
+-Cidade: Indaial/SC
 -O que faz nas horas vaga: Jogo no computador
 -Feedback sobre o curso Qualidade de Software: Bastante conteúdo, mas bem explicado, 
 acredito que as práticas como essa ajudam muito para avançar na carreira
